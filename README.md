@@ -13,9 +13,10 @@ Curated list of the best AI video generation models and services. Please send a 
 
 ### Services
 
-- [Republiclabs.ai](https://www.republiclabs.ai/) - Republiclabs.ai, a multi-model platform that aggregates and curates the best SOTA AI video models all in a single place for users to generate content quickly. Some models can generate unrestricted and uncensored content. 
+- [Republiclabs.ai](https://www.republiclabs.ai/) - Republiclabs.ai, a multi-model platform that aggregates and curates the best SOTA AI video models all in a single place for users to generate content quickly. Some models can generate unrestricted and uncensored content.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating vidoes using the Stable Video Diffusion video generation model.
 - [RunwayML](https://runwayml.com/) - One of the first original AI video generation platforms. Closed source models that you can only use on their website.
 - [Synthesia](https://www.synthesia.io/) - Hyper focused on AI avatar generation with realstic lip sycning movements.
 - [Hour One](https://hourone.ai/) - Focused on presentation generation websites.
 - [ShortVideoGen](https://shortgen.video/) - This platform is mainly used for generating short form videos such as UGC or YT shorts type content.
+- [PVID](http://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits.
